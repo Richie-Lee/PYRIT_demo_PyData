@@ -9,3 +9,5 @@ In this demo, we showcase how PyRIT can be used to extract passwords automatical
 <p align="center">
   <img src="https://github.com/Richie-Lee/PYRIT_demo_PyData/blob/main/Gandalf_demo_simplfied_architecture.png" alt="Simplified Architecture" width="500"/>
 </p>
+
+The demo was originally covered in an LLM security talk at PyData Amsterdam 2024 (https://amsterdam.pydata.org/).
